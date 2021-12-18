@@ -1,5 +1,5 @@
 # Calculator Windows Application
-# Tempareture-converter-app
+# Calculator app
 ## By Mahmood Hassan Rameem
 ## _Styding Diploma Engineering_
 
