@@ -255,9 +255,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(24, 340);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(314, 18);
+            this.label1.Size = new System.Drawing.Size(316, 18);
             this.label1.TabIndex = 21;
-            this.label1.Text = "Designed by Mahmood Hassan Rameem";
+            this.label1.Text = "Designed By Mahmood Hassan Rameem";
             // 
             // Form1
             // 
