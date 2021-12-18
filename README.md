@@ -13,8 +13,6 @@
 To use this application :
 <br/>
 
-- Go to Release section
-- Download "Tempareture.converter.app.exe" file by one click
-- Double click the file & ready to go.
+
 ## Task list:
 - [x] C#
