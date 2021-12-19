@@ -287,7 +287,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Calculator App";
+            this.Text = "Calculator App by MH Rameem";
             this.ResumeLayout(false);
             this.PerformLayout();
 
