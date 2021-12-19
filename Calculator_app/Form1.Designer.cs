@@ -51,11 +51,11 @@
             // 
             // result_window
             // 
-            this.result_window.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.result_window.Location = new System.Drawing.Point(27, 52);
+            this.result_window.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.result_window.Location = new System.Drawing.Point(27, 29);
             this.result_window.Name = "result_window";
             this.result_window.ReadOnly = true;
-            this.result_window.Size = new System.Drawing.Size(299, 38);
+            this.result_window.Size = new System.Drawing.Size(299, 62);
             this.result_window.TabIndex = 0;
             this.result_window.Text = "0";
             this.result_window.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
