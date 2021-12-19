@@ -11,6 +11,10 @@
 <br/>
 
 To use this application :
+- Go to Release section
+- Download "Calculator_app.exe" file by one click
+- Double click the file & ready to go.
+
 <br/>
 
 
