@@ -42,7 +42,7 @@ namespace Calculator_app
         }
 
 
-        // For oparators
+        // For oparators button
         private void oparator_btn(object sender, EventArgs e)
         {
             Button button = (Button)sender;
